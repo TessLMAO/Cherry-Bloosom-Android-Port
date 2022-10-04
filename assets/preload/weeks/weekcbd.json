@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Blooming Love",
+			"cbd-senpai",
+			[
+				255,
+				153,
+				193
+			]
+		],
+		[
+			"Nostalgia",
+			"cbd-senpai",
+			[
+				255,
+				153,
+				193
+			]
+		],
+		[
+			"Sakura Petals",
+			"cbd-senpai",
+			[
+				255,
+				153,
+				193
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "date",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Cherry Blossom Date",
+	"weekName": "Cherry Blossom Date",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "",
+	"startUnlocked": true
+}
