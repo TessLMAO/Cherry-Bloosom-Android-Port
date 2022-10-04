@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				-63
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Bf Idle"
+		},
+		{
+			"offsets": [
+				-6,
+				-73
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Bf Left"
+		},
+		{
+			"offsets": [
+				-7,
+				-59
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Bf Down"
+		},
+		{
+			"offsets": [
+				-12,
+				-69
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Bf Up"
+		},
+		{
+			"offsets": [
+				-7,
+				-69
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Bf Right"
+		},
+		{
+			"offsets": [
+				-4,
+				-67
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "Bf BAD LEFT"
+		},
+		{
+			"offsets": [
+				6,
+				-80
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "Bf BAD DOWN"
+		},
+		{
+			"offsets": [
+				-3,
+				-63
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "Bf BAD UP"
+		},
+		{
+			"offsets": [
+				-28,
+				-73
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "Bf BAD RIGHT"
+		},
+		{
+			"offsets": [
+				-5,
+				-70
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Bf Left",
+			"loop": false,
+			"name": "Bf Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Cherry blossom Boyfriend",
+	"position": [
+		-270,
+		170
+	],
+	"healthicon": "cbd-bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}
